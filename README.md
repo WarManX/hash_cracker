@@ -11,6 +11,7 @@ sha512
 
 # Install and start The tool 
 
-git clone 
-cd hash_cracker
-python3 hash.py
+`git clone `
+`cd hash_cracker`
+`python3 hash.py`
+
