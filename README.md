@@ -1,7 +1,7 @@
 # Hash Cracker
 
 ## What is Hash Cracker
-This tool can crack hashes then print it to you. 
+This tool can crack hashes then print it to you. It can check for multiple hashes at the same time. For any issues you can write in issues section.
 
 ## Types of Hashes available
 1- md5
