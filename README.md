@@ -14,6 +14,8 @@ This tool can crack hashes then print it to you.
 ## Install and start The tool 
 
 `git clone https://github.com/ShyGorilla/hash_cracker.git`
+
 `cd hash_cracker`
+
 `python3 hash.py`
 
