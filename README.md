@@ -2,16 +2,16 @@
 This tool can crack hashes then print it to you. 
 
 # Types of Hashes available
-md5
-sha1
-sha224
-sha256
-sha384
-sha512
+1- md5
+2- sha1
+3- sha224
+4- sha256
+5- sha384
+6- sha512
 
 # Install and start The tool 
 
-`git clone `
+`git clone https://github.com/ShyGorilla/hash_cracker.git`
 `cd hash_cracker`
 `python3 hash.py`
 
