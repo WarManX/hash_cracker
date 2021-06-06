@@ -34,6 +34,8 @@ This tool can crack hashes then print it to you. It can check for multiple hashe
 
 ## Screenshots 📸
 
+![Screen Recording 2021-06-06 at 7 22 22 PM](https://user-images.githubusercontent.com/73632576/120930098-efabbd00-c6fc-11eb-92ce-0fca38fe9d01.gif)
+
 <img width="571" alt="Screen Shot 2021-05-25 at 5 09 41 PM" src="https://user-images.githubusercontent.com/73632576/119505421-fdb52180-bd7d-11eb-8c9e-f99d65a4f651.png">
 
 <img width="563" alt="Screen Shot 2021-05-25 at 5 10 59 PM" src="https://user-images.githubusercontent.com/73632576/119505632-348b3780-bd7e-11eb-8053-94ab3e6ec173.png">
