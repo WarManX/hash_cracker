@@ -1,5 +1,7 @@
 # Hash Cracker
 
+<p width="493" style="text-align:center;"><img src="https://user-images.githubusercontent.com/73632576/120908641-47a2df00-c67d-11eb-9b56-1c6268057f6f.png" alt="aa"></p>
+
 ## What is Hash Cracker
 This tool can crack hashes then print it to you. It can check for multiple hashes at the same time. For any issues you can write in issues section. It can scan for 100k words in 5 seconds.
 
