@@ -2,10 +2,10 @@
 
 <p width="493" style="text-align:center;"><img src="https://user-images.githubusercontent.com/73632576/120908641-47a2df00-c67d-11eb-9b56-1c6268057f6f.png" alt="aa"></p>
 
-## What is Hash Cracker
+## What is Hash Cracker 
 This tool can crack hashes then print it to you. It can check for multiple hashes at the same time. For any issues you can write in issues section. It can scan for 100k words in 5 seconds.
 
-## Types of Hashes available
+## Types of Hashes available #️⃣
 1- md5
 
 2- sha1
@@ -18,6 +18,12 @@ This tool can crack hashes then print it to you. It can check for multiple hashe
 
 6- sha512
 
+## Supported OS 💻
+
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![Mac](http://img.shields.io/badge/-Mac-0078D6?style=flat-square&logo=apple&logoColor=ffffff)
+
 ## Install and start The tool 
 
 `git clone https://github.com/ShyGorilla/hash_cracker.git`
@@ -26,7 +32,7 @@ This tool can crack hashes then print it to you. It can check for multiple hashe
 
 `python3 hash.py`
 
-## Screenshots
+## Screenshots 📸
 
 <img width="571" alt="Screen Shot 2021-05-25 at 5 09 41 PM" src="https://user-images.githubusercontent.com/73632576/119505421-fdb52180-bd7d-11eb-8c9e-f99d65a4f651.png">
 
