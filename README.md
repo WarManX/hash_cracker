@@ -24,6 +24,10 @@ This tool can crack hashes then print it to you. It can check for multiple hashe
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Mac](http://img.shields.io/badge/-Mac-0078D6?style=flat-square&logo=apple&logoColor=ffffff)
 
+## Coding languages 💻
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+
 ## Install and start The tool 
 
 `git clone https://github.com/ShyGorilla/hash_cracker.git`
